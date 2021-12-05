@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 ### Most used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRamos93&layout=compact&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ### Statistics
 ![AlexRamos93's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRamos93&count_private=true&show_icons=true&theme=material-palenight )
+-->
