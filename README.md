@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### Networks
 [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-ramos-santana/)](https://www.linkedin.com/in/alexandre-ramos-santana/)
+[![Medium Badge](	https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@AlexRamos93)](https://medium.com/@AlexRamos93)
 
 ### Most used Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRamos93&layout=compact&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
