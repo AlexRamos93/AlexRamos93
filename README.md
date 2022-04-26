@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Software engineer / Smart Contracts Engineer from Brazil.
+I'm Software engineer from Brazil.
 
 ### Bio
+- 🔭 Senior Blockchain Developer at Protofire.io
 - 📚 Degree in General Programming, ITD Canada, 2018.
 <!--
 **AlexRamos93/AlexRamos93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
